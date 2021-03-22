@@ -7,6 +7,7 @@ library(ggplot2)
 library(shinycssloaders)
 library(stringr)
 library(htmltools)
+library(maps)
 
 #Import dataset
 ER <- read_csv("https://raw.githubusercontent.com/rubenmartinez9/Search-for-comanies-in-Emilia-Romagna/master/ER_V3.csv")
